@@ -1,0 +1,23 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#output {
+  font-size: x-large;
+}
+
+body {
+  width: 600px;
+  margin: 0px auto;
+  padding: 20px 50px;
+  text-align: center;
+}
